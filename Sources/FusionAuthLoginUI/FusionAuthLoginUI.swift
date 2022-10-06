@@ -23,6 +23,9 @@ public struct LoginForm: View {
     @State var username: String = ""
     @State var password: String = ""
     
+    public init() {
+        
+    }
 
     public var body: some View {
     
