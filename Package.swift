@@ -10,6 +10,7 @@ let package = Package(
         .library(
             name: "FusionAuthLoginUI",
             targets: ["FusionAuthLoginUI"]),
+        
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
